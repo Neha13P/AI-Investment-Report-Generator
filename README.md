@@ -1,25 +1,18 @@
-Key Features:
+# AI-Powered Investment Report Generation
 
-Automated Report Generation: Generates investment summaries based on portfolio performance data (returns, asset allocation, risk metrics, etc.).
+## Overview
+This project uses **Langchain** and **Groq's LLaMA 3.1-8B-Instant** model to automate the generation of investment reports. The solution tailors reports to client profiles, ensures regulatory compliance, and provides data-driven insights.
 
-Client-Specific Insights: Tailors report content for different client profiles — high-net-worth individuals, retirees, and institutional investors.
+## Features
+- **Automated Report Drafting**: Generates professional summaries based on portfolio data.
+- **Client Customization**: Adapts tone and recommendations for different investment goals.
+- **Compliance Checks**: Integrates necessary financial disclosures.
 
-
-Compliance Integration: Ensures regulatory alignment by including essential disclosures and transparent reporting practices.
-
-Prompt Engineering: Utilizes structured prompts to enhance the accuracy, relevance, and personalization of AI-generated content.
-
-Extensible Design: Easily integrable with front-end interfaces like Gradio or Streamlit for dynamic inputs and interactive report previews.
-
-
-Usage-The notebook contains:
-
-Prompt designs for various client profiles and compliance requirements.
-
-Test cases to validate the AI's outputs against sample portfolio data.
-
-Debugging strategies to refine prompts and handle input inconsistencies.
+## Tech Stack
+- **Python**
+- **Langchain**
+- **Groq's LLaMA 3.1-8B-Instant**
+- **Gradio/Streamlit** (for UI integration)
 
 
-Feel free to explore, suggest improvements, or fork the project. Let’s innovate AI-powered financial solutions together! 🚀
 
