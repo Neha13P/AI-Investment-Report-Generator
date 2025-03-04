@@ -12,9 +12,7 @@ Prompt Engineering: Utilizes structured prompts to enhance the accuracy, relevan
 Extensible Design: Easily integrable with front-end interfaces like Gradio or Streamlit for dynamic inputs and interactive report previews.
 
 
-Usage
-
-The notebook contains:
+Usage-The notebook contains:
 
 Prompt designs for various client profiles and compliance requirements.
 
