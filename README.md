@@ -13,6 +13,7 @@ Extensible Design: Easily integrable with front-end interfaces like Gradio or St
 
 
 Usage
+
 The notebook contains:
 
 Prompt designs for various client profiles and compliance requirements.
